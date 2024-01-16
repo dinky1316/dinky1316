@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </div>
-
+<br/>
 <div align="center">
   <h2>🌵 Tools 🌵</h2>
   <p>These are the tools I know how to use</p>

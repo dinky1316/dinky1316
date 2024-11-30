@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javaScript-FF9E0F?style=flat&logo=javascript&logoColor=white"/>
 </div>
-
+/*
 <div align="center">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -33,7 +33,7 @@
 </div>
 
 
-<div align="center">
+<div align="center"> */
   <br/>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=bfdd7d&height=200&section=footer" />
